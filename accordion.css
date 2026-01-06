@@ -94,7 +94,7 @@ h1 {
 
 /* Background images */
 .accordion ul li:nth-child(1) {
-  background-image: url("img/escola11.gif");
+  background-image: url("http://michael-ferry.com/assets/accordion1.jpg");
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
 }
@@ -219,5 +219,6 @@ h1 {
     white-space: normal; /* allow text to wrap */
   }
 }
+
 
 
