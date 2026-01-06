@@ -96,7 +96,7 @@ section {
     p {
         font-size: 1.1rem;
         line-height: 1.8;
-        color: #333333;
+        color: #1a1a1a;
         max-width: 900px;
         margin: 0 auto 30px;
         padding: 0 20px;
@@ -185,7 +185,7 @@ table td:hover {
 /* Estilo dos cards */
 .projeto-card {
     background: white;
-    color: #333333;
+    color: #1a1a1a;
     width: 280px;
     padding: 25px;
     border-radius: 12px;
@@ -240,7 +240,7 @@ table td:hover {
 /* Estilo dos cards */
 .concurso-card {
     background: white;
-    color: #333333;
+    color: #1a1a1a;
     width: 280px;
     padding: 25px;
     border-radius: 12px;
@@ -346,7 +346,7 @@ table td:hover {
 /* Estilo dos cards */
 .estagio-card {
     background: white;
-    color: #333333;
+    color: #1a1a1a;
     width: 280px;
     padding: 25px;
     border-radius: 12px;
@@ -441,7 +441,7 @@ table td:hover {
     background-color: #dae0e6;
     padding: 60px 0;
     text-align: center;
-    color: #333333;
+    color: #1a1a1a;
 }
 
 
@@ -456,7 +456,7 @@ table td:hover {
 /* Card */
 .card-testemunho {
     background: white;
-    color: #333333;
+    color: #1a1a1a;
     width: 280px;
     padding: 25px;
     border-radius: 12px;
@@ -471,7 +471,7 @@ table td:hover {
 
 .card-testemunho p {
     font-style: italic;
-    color: #333333;
+    color: #1a1a1a;
     margin-bottom: 15px;
 }
 
